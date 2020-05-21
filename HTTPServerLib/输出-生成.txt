@@ -1,0 +1,514 @@
+﻿1>------ 已启动全部重新生成: 项目: Frame.Application.Entity, 配置: Debug Any CPU ------
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\AuthorizeManage\ViewModel\AuthorizeUrlModel.cs(11,18,11,18): warning CS1570: XML 注释出现 XML 格式错误 --“此位置无法使用字符“”。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_Cycle.cs(13,1,13,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_CycleList.cs(14,1,14,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_SChart.cs(13,1,13,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_Chart.cs(13,1,13,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\FoundManage\Base_HouseEntity.cs(31,1,31,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\FoundManage\Base_HouseEntity.cs(32,13,32,14): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\AuthorizeManage\AuthorizeEntity.cs(8,18,8,18): warning CS1570: XML 注释出现 XML 格式错误 --“此位置无法使用字符“”。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\AuthorizeManage\AuthorizeDataEntity.cs(8,18,8,18): warning CS1570: XML 注释出现 XML 格式错误 --“此位置无法使用字符“”。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\SystemManage\ViewModel\DataItemModel.cs(5,1,5,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\SystemManage\ViewModel\DataItemModel.cs(7,9,7,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_CycleList.cs(18,33,18,42): warning CS1591: 缺少对公共可见类型或成员“Base_CycleList.listcycle”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_SChart.cs(18,23,18,33): warning CS1591: 缺少对公共可见类型或成员“Base_SChart.ProjectNum”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_SChart.cs(20,23,20,29): warning CS1591: 缺少对公共可见类型或成员“Base_SChart.actNum”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\Base_Chart.cs(18,23,18,33): warning CS1591: 缺少对公共可见类型或成员“Base_Chart.ProjectNum”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EFPort.cs(14,23,14,30): warning CS1591: 缺少对公共可见类型或成员“EFPort.barcode”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EFPort.cs(15,23,15,28): warning CS1591: 缺少对公共可见类型或成员“EFPort.eport”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(14,23,14,29): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.equiNo”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(15,23,15,29): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.userNo”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(16,23,16,31): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.userName”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(17,23,17,30): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.automat”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(18,23,18,29): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.remark”的 XML 注释
+1>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\ManuManage\EOpenForm.cs(19,29,19,37): warning CS1591: 缺少对公共可见类型或成员“EOpenForm.listport”的 XML 注释
+1>  Frame.Application.Entity -> C:\GitClient\HF-MES\Frame.Application\Frame.Application.Entity\bin\Debug\Frame.Application.Entity.dll
+2>------ 已启动全部重新生成: 项目: Frame.Application.IService, 配置: Debug Any CPU ------
+2>  Frame.Application.IService -> C:\GitClient\HF-MES\Frame.Application\Frame.Application.IService\bin\Debug\Frame.Application.IService.dll
+3>------ 已启动全部重新生成: 项目: Frame.Application.Service, 配置: Debug Any CPU ------
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileFolderService.cs(13,1,13,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\ScheduleService.cs(11,1,11,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\ScheduleService.cs(13,9,13,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileFolderService.cs(15,9,15,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileInfoService.cs(17,1,17,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileInfoService.cs(19,9,19,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\EmailContentService.cs(16,1,16,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\EmailContentService.cs(18,9,18,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\NoticeService.cs(12,1,12,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\NoticeService.cs(14,9,14,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\AreaService.cs(11,1,11,1): warning CS1570: XML 注释出现 XML 格式错误 --“元素“summary”需要结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\AreaService.cs(13,9,13,10): warning CS1570: XML 注释出现 XML 格式错误 --“在此位置不应为结束标记。”
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(12,7,12,29): warning CS0105: “Frame.Application.Code”的 using 指令以前在此命名空间中出现过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MySocket.cs(10,7,10,18): warning CS0105: “System.Linq”的 using 指令以前在此命名空间中出现过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MySocket.cs(126,29,126,31): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(537,30,537,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ScheduleService.cs(511,30,511,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ScheduleService.cs(563,30,563,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(492,30,492,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(389,30,389,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\CodeRuleService.cs(149,25,149,35): warning CS0219: 变量“nowSerious”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\CodeRuleService.cs(272,30,272,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(520,29,520,31): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(572,38,572,40): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(588,30,588,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(490,30,490,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(716,24,716,32): warning CS0219: 变量“returnsp”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(727,30,727,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(907,24,907,32): warning CS0219: 变量“returnsp”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchTaskService.cs(592,30,592,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchTaskService.cs(660,30,660,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchTaskService.cs(696,30,696,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactRepairService.cs(561,30,561,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactRepairService.cs(662,30,662,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(524,30,524,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1192,38,1192,40): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1202,30,1202,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1112,23,1112,26): warning CS0219: 变量“RDT”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1192,30,1192,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1422,34,1422,36): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1432,30,1432,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1366,30,1366,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1661,38,1661,40): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1671,30,1671,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1513,30,1513,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1821,34,1821,36): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1830,30,1830,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1850,20,1850,25): warning CS0219: 变量“expno”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1950,30,1950,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2158,30,2158,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1992,21,1992,32): warning CS0219: 变量“sumcraftnum”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1993,21,1993,31): warning CS0219: 变量“sumovernum”已被赋值，但从未使用过它的值
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2263,30,2263,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2374,30,2374,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2487,30,2487,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2587,30,2587,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2727,38,2727,40): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2737,30,2737,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2883,30,2883,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3024,30,3024,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3157,30,3157,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3328,30,3328,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3473,30,3473,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3540,30,3540,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3600,30,3600,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3661,30,3661,31): warning CS0168: 声明了变量“e”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3776,34,3776,36): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3786,30,3786,32): warning CS0168: 声明了变量“ex”，但从未使用过
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AccountService.cs(87,26,87,35): warning CS1572: XML 注释中有“IPAddress”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AccountService.cs(89,72,89,81): warning CS1573: 参数“iPAddress”在“AccountService.LoginLimit(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(29,30,29,40): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.IQueryable()”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(43,30,43,40): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.IQueryable(Expression<Func<T, bool>>)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(54,31,54,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(Pagination)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(68,31,68,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(Expression<Func<T, bool>>, Pagination)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(79,31,79,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(84,31,84,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(string, DbParameter[])”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(89,31,89,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(string, Pagination)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\AuthorizeService.T.cs(94,31,94,39): warning CS1591: 缺少对公共可见类型或成员“AuthorizeService<T>.FindList(string, DbParameter[], Pagination)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\ModuleFormInstanceService.cs(22,26,22,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\ModuleFormInstanceService.cs(24,68,24,76): warning CS1573: 参数“objectId”在“ModuleFormInstanceService.GetEntityByObjectId(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailEquiService.cs(158,26,158,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailEquiService.cs(312,21,312,32): warning CS1591: 缺少对公共可见类型或成员“Base_CraftDetailEquiService.GeEquiifCon(string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailEquiService.cs(331,26,331,39): warning CS1591: 缺少对公共可见类型或成员“Base_CraftDetailEquiService.GeEquiifConGZ(string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailFileService.cs(143,26,143,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailFileService.cs(285,23,285,34): warning CS1591: 缺少对公共可见类型或成员“Base_CraftDetailFileService.DownPDFFile(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(186,26,186,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(369,55,369,70): warning CS1591: 缺少对公共可见类型或成员“Base_CraftDetailGenService.GetListForCraft(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(430,26,430,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(432,79,432,86): warning CS1573: 参数“craftno”在“Base_CraftDetailGenService.GetListForRepair(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(432,94,432,102): warning CS1573: 参数“nodecode”在“Base_CraftDetailGenService.GetListForRepair(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(445,26,445,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(447,69,447,76): warning CS1573: 参数“modalno”在“Base_CraftDetailGenService.GetEntityForModleNo(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(447,85,447,92): warning CS1573: 参数“typestr”在“Base_CraftDetailGenService.GetEntityForModleNo(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(447,101,447,105): warning CS1573: 参数“stag”在“Base_CraftDetailGenService.GetEntityForModleNo(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(447,114,447,123): warning CS1573: 参数“processno”在“Base_CraftDetailGenService.GetEntityForModleNo(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(474,26,474,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(476,68,476,75): warning CS1573: 参数“craftno”在“Base_CraftDetailGenService.GetEntityForStepNo(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailGenService.cs(476,84,476,90): warning CS1573: 参数“stepno”在“Base_CraftDetailGenService.GetEntityForStepNo(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailPersonService.cs(171,26,171,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailQuotaService.cs(194,26,194,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(215,26,215,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(217,72,217,79): warning CS1573: 参数“CraftNo”在“Base_CraftDetailService.GetCraftList(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(231,26,231,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(445,26,445,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(447,75,447,82): warning CS1573: 参数“carftno”在“Base_CraftDetailService.GetListForCraft(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftDetailService.cs(495,23,495,30): warning CS1591: 缺少对公共可见类型或成员“Base_CraftDetailService.DelItem(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(160,26,160,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(330,26,330,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(332,70,332,77): warning CS1573: 参数“modalno”在“Base_CraftTempService.GetCheckList(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(332,85,332,92): warning CS1573: 参数“typestr”在“Base_CraftTempService.GetCheckList(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(332,100,332,104): warning CS1573: 参数“stag”在“Base_CraftTempService.GetCheckList(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(508,26,508,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(572,26,572,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_CraftTempService.cs(575,49,575,56): warning CS1573: 参数“craftno”在“Base_CraftTempService.SaveFormTemCraftno(string, Base_CraftTempEntity)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_ProductBOMVerService.cs(145,113,145,122): warning CS1573: 参数“entryList”在“Base_ProductBOMVerService.SaveForm(string, Base_ProductBOMVerEntity, List<Base_ProductStructProEntity>)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_StepService.cs(23,26,23,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_StepService.cs(25,61,25,70): warning CS1573: 参数“processno”在“Base_StepService.GetPList(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_TesProcessService.cs(150,26,150,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_TestClassService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_TestProcessGroupService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_TestQuotaService.cs(115,26,115,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\CraftManage\Base_TestTragetService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiCalService.cs(143,26,143,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiCateAndMpService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiErrorListService.cs(87,26,87,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiExcepDictDetailService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiExceptionService.cs(115,26,115,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiGuarService.cs(143,26,143,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiManPropertyService.cs(94,26,94,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquimentManageService.cs(346,26,346,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquimentManageService.cs(721,26,721,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquimentManageService.cs(723,45,723,51): warning CS1573: 参数“userno”在“Base_EquimentManageService.GetPadListJson(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenMPlanService.cs(130,26,130,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenMService.cs(173,26,173,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(143,26,143,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(277,46,277,60): warning CS1591: 缺少对公共可见类型或成员“Base_EquipmenRepairRequService.GetEntityForNo(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(429,26,429,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,42,430,48): warning CS1573: 参数“equiNo”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,57,430,67): warning CS1573: 参数“reportdate”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,76,430,84): warning CS1573: 参数“plandate”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,93,430,103): warning CS1573: 参数“repairtype”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,112,430,119): warning CS1573: 参数“bugdesc”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,128,430,134): warning CS1573: 参数“userNo”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,143,430,151): warning CS1573: 参数“userName”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairRequService.cs(430,159,430,165): warning CS1573: 参数“userId”在“Base_EquipmenRepairRequService.PADRequForm(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmenRepairService.cs(174,26,174,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmentCateService.cs(123,26,123,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmentCateService.cs(125,72,125,80): warning CS1573: 参数“equicate”在“Base_EquipmentCateService.GetListFor(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquipmentCateService.cs(139,26,139,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquippedFileService.cs(161,26,161,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiRepairTypeService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiRepairTypeService.cs(230,26,230,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiRepairTypeService.cs(232,77,232,83): warning CS1573: 参数“cateno”在“Base_EquiRepairTypeService.GetListForuser(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiRunRecService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquiTroubleService.cs(150,26,150,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Base_EquPointCheckService.cs(115,26,115,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitPointService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitPointService.cs(216,26,216,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitPointService.cs(218,63,218,65): warning CS1573: 参数“no”在“Info_TestUnitPointService.GetEntityForNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitService.cs(136,26,136,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitService.cs(272,26,272,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\EquiManage\Info_TestUnitService.cs(274,58,274,63): warning CS1573: 参数“keyno”在“Info_TestUnitService.GetEntityForNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodePrintListService.cs(53,26,53,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodePrintListService.cs(134,26,134,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodePrintListService.cs(135,26,135,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodePrintListService.cs(137,38,137,45): warning CS1573: 参数“proType”在“Base_BarcodePrintListService.GenForm(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodePrintListService.cs(137,53,137,62): warning CS1573: 参数“productno”在“Base_BarcodePrintListService.GenForm(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(122,26,122,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(238,26,238,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(240,61,240,68): warning CS1573: 参数“barcode”在“Base_BarcodeListService.GetEntityForNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(318,26,318,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(319,26,319,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(321,38,321,45): warning CS1573: 参数“proType”在“Base_BarcodeListService.GenForm(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(321,53,321,62): warning CS1573: 参数“productno”在“Base_BarcodeListService.GenForm(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(321,71,321,78): warning CS1573: 参数“madalno”在“Base_BarcodeListService.GenForm(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(321,87,321,92): warning CS1573: 参数“stage”在“Base_BarcodeListService.GenForm(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(399,26,399,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BarcodeListService.cs(400,41,400,48): warning CS1573: 参数“barcode”在“Base_BarcodeListService.PrintCount(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_ClientService.cs(199,26,199,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BetweenUnitsService.cs(199,26,199,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugCateService.cs(80,26,80,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugCateService.cs(257,26,257,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugCateService.cs(259,67,259,71): warning CS1573: 参数“xxno”在“Base_BugCateService.PADExCateNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugInfoService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugInfoService.cs(298,26,298,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_BugInfoService.cs(300,67,300,73): warning CS1573: 参数“cateno”在“Base_BugInfoService.PADExceptNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_DeviceService.cs(87,26,87,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseSectionService.cs(21,26,21,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseService.cs(24,26,24,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseService.cs(55,26,55,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseService.cs(57,68,57,77): warning CS1573: 参数“housecate”在“Base_HouseService.GetListForCate(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseStackService.cs(174,26,174,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_HouseStackService.cs(379,73,379,80): warning CS1573: 参数“stockno”在“Base_HouseStackService.GetStock(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_PrintConfigService.cs(44,26,44,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_MaterialsService.cs(290,26,290,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_MessageInfoService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_MessageSetService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_MeterUnitService.cs(93,26,93,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_StockOpReService.cs(51,26,51,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_StockOpReService.cs(53,69,53,75): warning CS1573: 参数“OpType”在“Base_StockOpReService.GetListFrom(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Base_TeamClassService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Plan_MainService.cs(101,26,101,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Stock_Base05Service.cs(54,26,54,33): warning CS1572: XML 注释中有“userIds”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\FoundManage\Stock_Base05Service.cs(55,58,55,65): warning CS1573: 参数“roleIds”在“Stock_Base05Service.SaveMember(string, string[])”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\GMLogUtil.cs(13,18,13,27): warning CS1591: 缺少对公共可见类型或成员“GMLogUtil”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\GMLogUtil.cs(18,28,18,42): warning CS1591: 缺少对公共可见类型或成员“GMLogUtil.WriteException(Exception)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\GMLogUtil.cs(26,26,26,35): warning CS1572: XML 注释中有“exception”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\GMLogUtil.cs(27,45,27,48): warning CS1573: 参数“msg”在“GMLogUtil.WriteFile(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactDataService.cs(220,26,220,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactRoastService.cs(194,26,194,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactTempService.cs(213,26,213,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactTempService.cs(481,24,481,36): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactTempService.GetInventory(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Base_TestDataService.cs(390,26,390,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Base_TestDataService.cs(809,23,809,34): warning CS1591: 缺少对公共可见类型或成员“Base_TestDataService.SaveALLForm(string, string, string, List<Base_TestDataEntity>)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_EnrCheckService.cs(158,26,158,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_EnrCheckService.cs(315,26,315,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_EnrCheckService.cs(352,26,352,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_EnrCheckService.cs(389,26,389,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchProBarcodeService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchTaskService.cs(250,26,250,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuBatchTaskService.cs(502,119,502,128): warning CS1573: 参数“entryList”在“Info_ManuBatchTaskService.SaveForm(string, Info_ManuBatchTaskEntity, List<Info_ManuBatchProBarcodeEntity>)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacCOMPortService.cs(179,26,179,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacCOMPortService.cs(181,76,181,79): warning CS1573: 参数“pid”在“Info_ManufacCOMPortService.GetListEntity(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacCOMPortService.cs(199,26,199,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacCVWService.cs(129,26,129,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacCVWService.cs(256,38,256,53): warning CS1591: 缺少对公共可见类型或成员“Info_ManufacCVWService.GetEntityForCon(string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacExecRecService.cs(202,26,202,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacFileUseService.cs(201,26,201,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacFileUseService.cs(398,55,398,72): warning CS1591: 缺少对公共可见类型或成员“Info_ManufacFileUseService.GetFileForPidCSXT(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufacFileUseService.cs(411,23,411,36): warning CS1591: 缺少对公共可见类型或成员“Info_ManufacFileUseService.GetFileForCid(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycle2Service.cs(29,26,29,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycle2Service.cs(31,76,31,82): warning CS1573: 参数“strsql”在“Info_ManufactCycle2Service.GetListForsql(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycle2Service.cs(277,26,277,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(63,26,63,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(65,78,65,84): warning CS1573: 参数“strsql”在“Info_ManufactCycleService.GetListForsql123(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(90,23,90,31): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.GetSuocc(string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(396,26,396,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(398,78,398,84): warning CS1573: 参数“userno”在“Info_ManufactCycleService.GetListForuserno(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(414,26,414,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(984,26,984,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(986,82,986,88): warning CS1573: 参数“equiNo”在“Info_ManufactCycleService.GetListJsonForEquiNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(999,26,999,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1001,64,1001,70): warning CS1573: 参数“taskno”在“Info_ManufactCycleService.GetEntityForCon(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1001,79,1001,88): warning CS1573: 参数“processno”在“Info_ManufactCycleService.GetEntityForCon(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1001,97,1001,103): warning CS1573: 参数“stepno”在“Info_ManufactCycleService.GetEntityForCon(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1014,26,1014,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1016,77,1016,83): warning CS1573: 参数“taskno”在“Info_ManufactCycleService.GetListForAllNg(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1016,92,1016,101): warning CS1573: 参数“processno”在“Info_ManufactCycleService.GetListForAllNg(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1016,110,1016,116): warning CS1573: 参数“stepno”在“Info_ManufactCycleService.GetListForAllNg(string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1206,26,1206,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1207,57,1207,63): warning CS1573: 参数“entity”在“Info_ManufactCycleService.OpenForm(Info_ManufactCycleEntity, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1207,72,1207,79): warning CS1573: 参数“listStr”在“Info_ManufactCycleService.OpenForm(Info_ManufactCycleEntity, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1820,64,1820,72): warning CS1573: 参数“titlestr”在“Info_ManufactCycleService.TaskCallBack(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,56,1989,63): warning CS1573: 参数“fstatus”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,72,1989,79): warning CS1573: 参数“bugcate”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,88,1989,98): warning CS1573: 参数“bugcatestr”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,107,1989,114): warning CS1573: 参数“buginfo”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,123,1989,133): warning CS1573: 参数“buginfostr”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,142,1989,148): warning CS1573: 参数“remark”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,190,1989,197): warning CS1573: 参数“bugOver”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(1989,206,1989,220): warning CS1573: 参数“peishaolistStr”在“Info_ManufactCycleService.OverForm(string, string, string, string, string, string, string, Info_ManufactCycleEntity, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2504,62,2504,71): warning CS1573: 参数“newequino”在“Info_ManufactCycleService.ChangeEquiForm(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2625,26,2625,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2626,26,2626,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2628,46,2628,52): warning CS1573: 参数“taskno”在“Info_ManufactCycleService.TaskNextProcess(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2748,23,2748,34): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDARecvForm(string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(2892,23,2892,37): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDAProcessOpen(string, string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3034,23,3034,38): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDAProcessClose(string, string, string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3166,23,3166,35): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDARoastOpen(string, string, string, string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3338,23,3338,36): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDARoastClose(string, string, string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3484,23,3484,38): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDAProcessCheck(string, string, string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3550,23,3550,35): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDATempStore(string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3609,23,3609,34): warning CS1591: 缺少对公共可见类型或成员“Info_ManufactCycleService.PDATempDown(string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3674,18,3674,26): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3675,18,3675,24): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3677,46,3677,52): warning CS1573: 参数“taskno”在“Info_ManufactCycleService.PDATaskNextProcess(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3677,60,3677,65): warning CS1573: 参数“manid”在“Info_ManufactCycleService.PDATaskNextProcess(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3677,73,3677,78): warning CS1573: 参数“manno”在“Info_ManufactCycleService.PDATaskNextProcess(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactCycleService.cs(3677,86,3677,93): warning CS1573: 参数“manname”在“Info_ManufactCycleService.PDATaskNextProcess(string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactEquiOverService.cs(262,26,262,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactExceptService.cs(206,26,206,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(200,26,200,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(450,26,450,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,43,451,50): warning CS1573: 参数“barcode”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,59,451,65): warning CS1573: 参数“userno”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,74,451,82): warning CS1573: 参数“username”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,91,451,96): warning CS1573: 参数“image”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,104,451,110): warning CS1573: 参数“remark”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,119,451,127): warning CS1573: 参数“recvsend”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,136,451,149): warning CS1573: 参数“recvsendvalue”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,158,451,170): warning CS1573: 参数“recvsendtext”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,178,451,184): warning CS1573: 参数“tar123”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactImgService.cs(451,193,451,201): warning CS1573: 参数“secimage”在“Info_ManufactImgService.PadTakePhoto(string, string, string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactOverService.cs(279,26,279,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactRepairService.cs(241,26,241,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactReportService.cs(290,26,290,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManufactSRService.cs(269,26,269,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuOtherTaskService.cs(262,26,262,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskBeginService.cs(227,26,227,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(44,26,44,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(46,49,46,55): warning CS1573: 参数“strsql”在“Info_ManuTaskService.GetListForsql12(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(284,26,284,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(778,26,778,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(780,57,780,63): warning CS1573: 参数“taskno”在“Info_ManuTaskService.GetListEntity(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(787,36,787,49): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.GetNewCarftNo(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(802,23,802,39): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.GetProductStatus(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(821,23,821,36): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.GetFirstChart()”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(975,23,975,35): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.GetEquiChart()”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(997,23,997,34): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.GetEquiList()”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1109,23,1109,34): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.InStockForm(string[], out string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1212,23,1212,35): warning CS1591: 缺少对公共可见类型或成员“Info_ManuTaskService.InFXOverForm(string, out string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1518,26,1518,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1520,66,1520,73): warning CS1573: 参数“barcode”在“Info_ManuTaskService.DowntaskForm(string[], out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,58,1844,67): warning CS1573: 参数“processno”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,76,1844,82): warning CS1573: 参数“stepno”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,91,1844,98): warning CS1573: 参数“bugcate”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,107,1844,117): warning CS1573: 参数“bugcatestr”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,126,1844,133): warning CS1573: 参数“buginfo”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,142,1844,152): warning CS1573: 参数“buginfostr”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1844,161,1844,167): warning CS1573: 参数“remark”在“Info_ManuTaskService.ExceptTask(string, string, string, string, string, string, string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskService.cs(1927,67,1927,76): warning CS1573: 参数“productno”在“Info_ManuTaskService.ChangeTaskProductno(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskSetService.cs(178,26,178,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_ManuTaskStartService.cs(248,26,248,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(177,26,177,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(380,26,380,32): warning CS1572: XML 注释中有“userno”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(382,44,382,46): warning CS1573: 参数“id”在“Info_StepTitleOpService.SetPADStepStatus(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(382,54,382,60): warning CS1573: 参数“status”在“Info_StepTitleOpService.SetPADStepStatus(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_StepTitleOpService.cs(432,23,432,32): warning CS1591: 缺少对公共可见类型或成员“Info_StepTitleOpService.SetOpForm(string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\ManuManage\Info_WriteNoteService.cs(88,26,88,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldBackService.cs(166,26,166,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldBackService.cs(462,23,462,33): warning CS1591: 缺少对公共可见类型或成员“Stock_MouldBackService.ModuleBack(string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldCycleService.cs(178,26,178,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldFilesService.cs(221,26,221,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldFilesService.cs(442,26,442,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldFilesService.cs(444,61,444,72): warning CS1573: 参数“MouldFileNo”在“Stock_MouldFilesService.GetEntityForNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldFilesService.cs(456,26,456,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldFilesService.cs(458,66,458,77): warning CS1573: 参数“MouldFileNo”在“Stock_MouldFilesService.GetEntityForMouldNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldLendService.cs(166,26,166,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldLendService.cs(331,26,331,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldLendService.cs(333,60,333,71): warning CS1573: 参数“MouldFileNo”在“Stock_MouldLendService.GetEntityForNo(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MouldManage\Stock_MouldLendService.cs(412,23,412,33): warning CS1591: 缺少对公共可见类型或成员“Stock_MouldLendService.ModuleLend(string, string, string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MySocket.cs(14,18,14,26): warning CS1591: 缺少对公共可见类型或成员“MySocket”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MySocket.cs(18,30,18,42): warning CS1591: 缺少对公共可见类型或成员“MySocket.ISO847311998(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\MySocket.cs(95,30,95,41): warning CS1591: 缺少对公共可见类型或成员“MySocket.SendMessage(string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ALevelMainDetailService.cs(150,26,150,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ScheduleService.cs(235,26,235,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ScheduleService.cs(526,27,526,36): warning CS1572: XML 注释中有“entryList”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_ScheduleService.cs(746,21,746,29): warning CS1591: 缺少对公共可见类型或成员“Plan_ScheduleService.ExecForm(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_OrderService.cs(214,26,214,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PlanManage\Plan_BLevelProBarcodeService.cs(108,26,108,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileFolderService.cs(23,26,23,32): warning CS1572: XML 注释中有“userId”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\FileFolderService.cs(25,66,25,75): warning CS1573: 参数“queryJson”在“FileFolderService.GetListQuery(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\EmailContentService.cs(487,26,487,34): warning CS1572: XML 注释中有“asterisk”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\PublicInfoManage\EmailContentService.cs(488,55,488,62): warning CS1573: 参数“sterisk”在“EmailContentService.SteriskEmail(string, int)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockDetail5Service.cs(150,26,150,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo1Service.cs(181,26,181,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo1Service.cs(503,26,503,29): warning CS1572: XML 注释中有“key”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo1Service.cs(504,43,504,52): warning CS1573: 参数“InStockNo”在“Wms_RawStockInfo1Service.InStockForBill(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo1Service.cs(586,26,586,29): warning CS1572: XML 注释中有“key”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo1Service.cs(587,44,587,52): warning CS1573: 参数“keyValue”在“Wms_RawStockInfo1Service.InStockForInver(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(163,26,163,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(378,21,378,29): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfo2Service.OutStock(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(435,26,435,29): warning CS1572: XML 注释中有“key”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(436,46,436,56): warning CS1573: 参数“OutStockNo”在“Wms_RawStockInfo2Service.OutStockForBillno(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(496,26,496,29): warning CS1572: XML 注释中有“key”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo2Service.cs(497,64,497,70): warning CS1573: 参数“entity”在“Wms_RawStockInfo2Service.OutStockForInver(Wms_RawStockDetail5Entity)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo3Service.cs(168,26,168,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfo5Service.cs(129,26,129,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(241,39,241,58): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.GetEntityForstackno(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(254,26,254,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(426,52,426,69): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.GetListForStackNo(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(438,52,438,69): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.GetEntityForStack(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(448,21,448,34): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.updatebookout(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(459,26,459,37): warning CS1572: XML 注释中有“carriestype”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(460,26,460,32): warning CS1572: XML 注释中有“lotqty”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(462,80,462,87): warning CS1573: 参数“stockno”在“Wms_RawStockInfoService.GetEntityForHasGoods(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(527,51,527,68): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.GetListForHouseno(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(694,26,694,33): warning CS1572: XML 注释中有“StackNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(697,52,697,62): warning CS1573: 参数“StockStack”在“Wms_RawStockInfoService.OutStock(string, string, string, decimal?)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(764,26,764,33): warning CS1572: XML 注释中有“StackNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(767,59,767,69): warning CS1573: 参数“StockStack”在“Wms_RawStockInfoService.OutStockNoLock(string, string, string, decimal?)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_RawStockInfoService.cs(821,24,821,36): warning CS1591: 缺少对公共可见类型或成员“Wms_RawStockInfoService.GetInventory(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\RawStockManage\Wms_StockGroupService.cs(151,26,151,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo6DetailService.cs(150,26,150,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo6Service.cs(129,26,129,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInDetailService.cs(156,26,156,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(23,41,23,54): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo1Service.stockindetail”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(183,26,183,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(195,26,195,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(197,66,197,72): warning CS1573: 参数“status”在“Wms_StockInfo1Service.GetPList(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(209,26,209,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(211,66,211,72): warning CS1573: 参数“status”在“Wms_StockInfo1Service.GetMList(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(382,26,382,36): warning CS1572: XML 注释中有“pagination”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(780,65,780,71): warning CS1573: 参数“errstr”在“Wms_StockInfo1Service.postOtherForm(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(865,23,865,35): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo1Service.jubStockdata(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(949,26,949,29): warning CS1572: XML 注释中有“key”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo1Service.cs(950,44,950,52): warning CS1573: 参数“keyValue”在“Wms_StockInfo1Service.InStockForInver(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(195,26,195,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(205,50,205,62): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo2Service.GetListForNo(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(396,26,396,36): warning CS1572: XML 注释中有“pagination”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(512,50,512,61): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo2Service.GetParmList(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(614,23,614,36): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo2Service.AdddeleteForm(string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(661,23,661,35): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo2Service.TurndataForm(string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(711,21,711,39): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfo2Service.AdddeleteorderForm(string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(737,60,737,66): warning CS1573: 参数“errstr”在“Wms_StockInfo2Service.AuditForm(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(829,63,829,69): warning CS1573: 参数“errstr”在“Wms_StockInfo2Service.AuditUnForm(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(935,61,935,67): warning CS1573: 参数“errstr”在“Wms_StockInfo2Service.FinishForm(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo2Service.cs(990,67,990,73): warning CS1573: 参数“errstr”在“Wms_StockInfo2Service.OtherFinishForm(string, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfo3Service.cs(248,26,248,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(261,26,261,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(274,26,274,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(276,70,276,73): warning CS1573: 参数“ids”在“Wms_StockInfoService.GetListForIds(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(992,58,992,63): warning CS1573: 参数“stock”在“Wms_StockInfoService.GetInventory(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1001,26,1001,31): warning CS1572: XML 注释中有“RowNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1011,26,1011,31): warning CS1572: XML 注释中有“RowNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1024,26,1024,31): warning CS1572: XML 注释中有“RowNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1035,26,1035,31): warning CS1572: XML 注释中有“RowNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1046,26,1046,31): warning CS1572: XML 注释中有“RowNo”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1056,24,1056,41): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfoService.GetListForInputno(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1085,24,1085,37): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfoService.GetInStockRep(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1133,26,1133,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1135,72,1135,79): warning CS1573: 参数“stackno”在“Wms_StockInfoService.GetListForStack(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1135,88,1135,94): warning CS1573: 参数“trayno”在“Wms_StockInfoService.GetListForStack(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockInfoService.cs(1179,23,1179,38): warning CS1591: 缺少对公共可见类型或成员“Wms_StockInfoService.SetLockForStack(string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(164,26,164,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(308,23,308,32): warning CS1591: 缺少对公共可见类型或成员“Wms_StockOutDetailService.Jubrepeat(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(324,23,324,32): warning CS1591: 缺少对公共可见类型或成员“Wms_StockOutDetailService.JubisLock(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(342,23,342,30): warning CS1591: 缺少对公共可见类型或成员“Wms_StockOutDetailService.JubisCZ(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(416,26,416,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(417,26,417,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(419,60,419,72): warning CS1573: 参数“detailentity”在“Wms_StockOutDetailService.SaveAllForm(Wms_StockOutDetailEntity, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(419,85,419,91): warning CS1573: 参数“billno”在“Wms_StockOutDetailService.SaveAllForm(Wms_StockOutDetailEntity, out string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(505,23,505,36): warning CS1591: 缺少对公共可见类型或成员“Wms_StockOutDetailService.SaveStockForm(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(532,26,532,34): warning CS1572: XML 注释中有“keyValue”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(533,26,533,32): warning CS1572: XML 注释中有“entity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockOutDetailService.cs(535,48,535,52): warning CS1573: 参数“fnum”在“Wms_StockOutDetailService.SaveBlankOutStock(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\StockManage\Wms_StockRecvService.cs(171,26,171,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\LogService.cs(120,20,120,28): warning CS1591: 缺少对公共可见类型或成员“LogService.WriteLog(string, string, string, string, string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\CodeRuleService.cs(287,94,287,96): warning CS1573: 参数“db”在“CodeRuleService.SetBillCode(string, string, string, IRepository)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\CodeRuleService.cs(463,92,463,94): warning CS1573: 参数“db”在“CodeRuleService.UseRuleSeed(string, string, string, IRepository)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\AreaService.cs(69,26,69,26): warning CS1572: XML 注释中有“”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\SystemManage\AreaService.cs(71,58,71,68): warning CS1573: 参数“areaEntity”在“AreaService.SaveForm(string, AreaEntity)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\ModuleColumnService.cs(50,26,50,44): warning CS1572: XML 注释中有“moduleButtonEntity”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\ModuleColumnService.cs(51,50,51,68): warning CS1573: 参数“moduleColumnEntity”在“ModuleColumnService.AddEntity(ModuleColumnEntity)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\PermissionService.cs(30,26,30,32): warning CS1572: XML 注释中有“UserId”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\AuthorizeManage\PermissionService.cs(32,69,32,75): warning CS1573: 参数“userId”在“PermissionService.GetObjectList(string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\BaseManage\OrganizeService.cs(40,26,40,38): warning CS1572: XML 注释中有“organizeName”的 param 标记，但是没有该名称的参数
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\BaseManage\OrganizeService.cs(43,42,43,50): warning CS1573: 参数“fullName”在“OrganizeService.ExistFullName(string, string)”的 XML 注释中没有匹配的 param 标记(但其他参数有)
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\BaseManage\UserService.cs(169,26,169,38): warning CS1591: 缺少对公共可见类型或成员“UserService.CheckLogindt(string)”的 XML 注释
+3>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\WorkshopsManage\Base_ProgressService.cs(129,26,129,35): warning CS1572: XML 注释中有“queryJson”的 param 标记，但是没有该名称的参数
+3>  Frame.Application.Service -> C:\GitClient\HF-MES\Frame.Application\Frame.Application.Service\bin\Debug\Frame.Application.Service.dll
+4>------ 已启动全部重新生成: 项目: Frame.Application.Busines, 配置: Debug Any CPU ------
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\CraftManage\Base_TestQuotaBLL.cs(78,30,78,32): warning CS0168: 声明了变量“ex”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\CraftManage\Base_ProductBOMVerBLL.cs(111,30,111,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\CraftManage\Base_ProductBOMVerBLL.cs(129,30,129,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\CraftManage\Base_ProductBOMVerBLL.cs(147,30,147,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\ManuManage\Info_StepTitleOpBLL.cs(123,30,123,32): warning CS0168: 声明了变量“ex”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_StockGroupBLL.cs(105,30,105,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\FoundManage\Base_HouseStackBLL.cs(61,30,61,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockOutDetailBLL.cs(112,20,112,29): warning CS0219: 变量“outbillno”已被赋值，但从未使用过它的值
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\FoundManage\Base_HouseSectionBLL.cs(77,30,77,32): warning CS0168: 声明了变量“ex”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInDetailBLL.cs(78,30,78,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(109,30,109,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(131,30,131,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo2BLL.cs(103,30,103,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(153,30,153,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo2BLL.cs(115,30,115,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(174,30,174,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo2BLL.cs(127,30,127,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(190,30,190,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(134,30,134,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(211,30,211,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(157,30,157,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(224,30,224,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo1BLL.cs(237,30,237,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(178,30,178,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(200,30,200,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(216,30,216,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo1BLL.cs(104,30,104,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\StockManage\Wms_StockInfo2BLL.cs(238,30,238,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo1BLL.cs(117,30,117,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\RawStockManage\Wms_RawStockInfo1BLL.cs(129,30,129,31): warning CS0168: 声明了变量“e”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\ManuManage\Info_ManufactCycleBLL.cs(190,30,190,32): warning CS0168: 声明了变量“ex”，但从未使用过
+4>C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\ManuManage\Info_ManufactCycleBLL.cs(209,30,209,32): warning CS0168: 声明了变量“ex”，但从未使用过
+4>  Frame.Application.Busines -> C:\GitClient\HF-MES\Frame.Application\Frame.Application.Busines\bin\Debug\Frame.Application.Busines.dll
+========== 全部重新生成: 成功 4 个，失败 0 个，跳过 0 个 ==========
