@@ -1,0 +1,2 @@
+# ChromeCrashRestart
+Chrome浏览器崩溃后自动重启程序
