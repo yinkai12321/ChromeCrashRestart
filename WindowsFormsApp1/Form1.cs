@@ -262,7 +262,10 @@ namespace WindowsFormsApp1
                     label3.Invoke((Action)delegate { 
                         label3.Text = "将要重启浏览器... ";
                     });
-                    ReloadChrome();
+                    aTimer.Stop();
+                    Task.Factory.StartNew(ReloadChrome);
+                    Thread.Sleep(10000);
+                    aTimer.Start();
                 }
                 else
                 {
