@@ -19,6 +19,9 @@ namespace HttpServer
 
         private static System.Timers.Timer aTimer;
 
+        public delegate void Callback();
+        public Callback callback;
+
         /// <summary>
         /// 构造函数
         /// </summary>
@@ -85,7 +88,6 @@ namespace HttpServer
 
         public override void OnGet(HttpRequest request, HttpResponse response)
         {
-
             if (request.URL.ToLower() == "/print")
             {
                 response.StatusCode = "404";
@@ -95,9 +97,12 @@ namespace HttpServer
                 return;
             }
 
+
             if (request.URL.ToLower() == "/keep")
             {
                 ISCONNECT = true;
+
+                callback();
 
                 Resonse(response, 0, "Ok");
             }

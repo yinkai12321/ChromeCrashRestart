@@ -33,7 +33,6 @@ namespace WindowsFormsApp1
 
         private static System.Timers.Timer aTimer;
 
-
         public Form1()
         {
             InitializeComponent();
@@ -231,15 +230,27 @@ namespace WindowsFormsApp1
             }
         }
 
+
+        ExampleServer.Callback caCllback;
+
+
         private void button3_Click(object sender, EventArgs e)
         {
             var port = Convert.ToInt32(this.txtPort.Text);
             Task.Factory.StartNew(() =>
             {
                 ExampleServer server = new ExampleServer("0.0.0.0", port);
+                server.callback = new ExampleServer.Callback(() => {
+                    aTimer.Stop();
+                    aTimer.Start();
+
+                });
                 server.Start();
 
+               
+
             });
+
 
             // 10秒检查一次
             aTimer = new System.Timers.Timer(10000);
